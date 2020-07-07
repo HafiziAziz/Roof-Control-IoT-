@@ -1,0 +1,48 @@
+
+
+
+.bg
+{
+	background-color:white;
+	padding:0px 5px;
+	
+}
+
+
+
+
+img
+{
+	height: 150px;
+	width: 150px;
+}
+
+img#myImg {
+	height:250px;
+	width:200px;
+}
+
+img#icon
+{
+	height: 50px;
+	width: 50px;
+}
+
+h2
+{
+	border: 1px solid ;
+    padding: 10px 10px; 
+    width: 250px;
+    border-radius: 30px;
+}
+
+ul
+{
+	background-color:#D3D3D3;
+	
+}
+
+ul li
+{
+	padding:auto;
+}
